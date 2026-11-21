@@ -10,7 +10,7 @@ Each paper can be read in full at [aathra.org](https://aathra.org), together wit
 
 ## Formal verification
 
-Lean 4 formalizations of these results are in progress and will be published in this organization.
+The main results of P.01 and P.02 are machine-checked in Lean 4 at [aathra/lean](https://github.com/aathra/lean). Each paper page lists exactly what is verified.
 
 ---
 
